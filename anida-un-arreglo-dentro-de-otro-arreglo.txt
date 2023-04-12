@@ -1,0 +1,2 @@
+// Cambia solo el código debajo de esta línea
+const myArray = [["esquizofrenico,15"], "so chill"];
